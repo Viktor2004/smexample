@@ -1,0 +1,5 @@
+package model;
+
+public enum ContractorEvent {
+    RC_SUCCESS, RC_ERROR, INCOME_INVITATION, INCOME_REJECT, OUTCOME_INVITATION, OUTCOME_REJECT
+}
